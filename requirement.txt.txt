@@ -1,5 +1,0 @@
-pyTelegramBotAPI
-python-dotenv
-web3
-tinydb
-gunicorn
